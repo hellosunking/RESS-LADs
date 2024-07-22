@@ -1,0 +1,6 @@
+LaminB1_DMSO_1	CTR	./LaminB1_DMSO_1_peaks.narrowPeak	./LaminB1_DMSO_1.srt.bed.gz	42.84
+LaminB1_DMSO_2	CTR	./LaminB1_DMSO_2_peaks.narrowPeak	./LaminB1_DMSO_2.srt.bed.gz	49.35
+LaminB1_DMSO_3	CTR	./LaminB1_DMSO_3_peaks.narrowPeak	./LaminB1_DMSO_3.srt.bed.gz	33.91
+LaminB1_APH_1	APH	./LaminB1_APH_1_peaks.narrowPeak	./LaminB1_APH_1.srt.bed.gz	34.34
+LaminB1_APH_2	APH	./LaminB1_APH_2_peaks.narrowPeak	./LaminB1_APH_2.srt.bed.gz	31.11
+LaminB1_APH_3	APH	./LaminB1_APH_3_peaks.narrowPeak	./LaminB1_APH_3.srt.bed.gz	34.62
